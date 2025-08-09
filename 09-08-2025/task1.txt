@@ -1,1 +1,3 @@
 practicing todays assignment
+to learn git tool ..
+how to push content to centralized server
